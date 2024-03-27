@@ -49,4 +49,3 @@ This project has the following limitations:
 
 ---
 
-You can replace the placeholders (like `yourusername` in the clone URL) with your actual GitHub username and customize any other parts of the documentation as needed.
